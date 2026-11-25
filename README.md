@@ -10,7 +10,11 @@ which aim to use QC devices as an accelerator. Considered topics are:
 - Use QC as an accelerator for HPC applications;
 - QC simulations.
 
-## Editions
+## Current Call for Contributions
+
+  * [Call for Contributions](./2027)
+
+## Previous Editions
 
 * 2024
   * [Call for Contributions](./2024)
@@ -22,6 +26,4 @@ which aim to use QC devices as an accelerator. Considered topics are:
   * [Report](https://hal.science/hal-05702803)
 * 2026
   * [Call for Contributions](./2026)
-  * [Event](https://submissions.pasc-conference.org/pasc26_program/views/at_a_glance.html#:~:text=MS1I%20%2D%203rd%20High%20Performance%20Computing%20meets%20Quantum%20Computing%20(HPC%2BQC%2726)
-*2027
-  * [Call for Contributions](./2027)
+  * [Event](https://submissions.pasc-conference.org/pasc26_program/views/at_a_glance.html#:~:text=MS1I%20%2D%203rd%20High%20Performance%20Computing%20meets%20Quantum%20Computing%20(HPC%2BQC%2726))
