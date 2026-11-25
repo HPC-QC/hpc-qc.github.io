@@ -12,7 +12,7 @@ which aim to use QC devices as an accelerator. Considered topics are:
 
 ## Current Call for Contributions
 
-  * [Call for Contributions](./2027)
+  * [2027 (4th edition) Call for Contributions](./2027)
 
 ## Previous Editions
 
